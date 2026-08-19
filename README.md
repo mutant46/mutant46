@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, Django, Javascript**
 
-- 📫 How to reach me **junaid.maqbool046@gmail.com
+- 📫 How to reach me **junaid.maqbool046@gmail.com**
 
 - ⚡ Fun fact **Idiot by Nature & Intelligent by Choice.**
 
